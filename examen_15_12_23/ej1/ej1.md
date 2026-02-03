@@ -58,3 +58,14 @@ classDiagram
     }
     
 ```
+### Explicaciones
+En el diagrama observamos tres tipos de relaciones
+- Herencia
+    + usuarionoregistrado de Usuario 
+    + usuarioregistrado de Usuario
+- Composicion
+    + El cuerpo está compuesto de partes
+    + La enfermedad está compuesta de carecterísticas y Medicina
+- Asociacion
+    + Enfermedad y partes
+
