@@ -1,5 +1,8 @@
 package sct.contornos.gestion;
-
+/**
+ * Clase Ciclo
+ * @author Adriam paz
+ */
 public class Ciclo {
     private String codigo;
     private String nombre;

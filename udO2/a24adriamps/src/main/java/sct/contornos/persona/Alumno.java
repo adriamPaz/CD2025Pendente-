@@ -1,7 +1,10 @@
 package sct.contornos.persona;
 
 import java.util.Date;
-
+/**
+ * Clase Alumno
+ * @author Adriam paz
+ */
 public class Alumno extends Persona{
     private String codigoXade;
     private boolean autorizaTutores;

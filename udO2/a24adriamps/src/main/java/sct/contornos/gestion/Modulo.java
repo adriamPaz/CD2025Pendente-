@@ -1,5 +1,8 @@
 package sct.contornos.gestion;
-
+/**
+ * Clase Modulo
+ * @author Adriam paz
+ */
 public class Modulo {
     private String codigo;
     private String nombre;

@@ -1,5 +1,8 @@
 package sct.contornos.gestion;
-
+/**
+ * Clase Centro
+ * @author Adriam paz
+ */
 public class Centro {
     private int codigo;
     private String nombre;

@@ -1,5 +1,8 @@
 package sct.contornos.gestion;
-
+/**
+ * Clase Nivel
+ * @author Adriam paz
+ */
 public class Nivel {
     private String nivel;
 

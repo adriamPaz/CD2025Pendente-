@@ -1,7 +1,10 @@
 package sct.contornos.gestion;
 
 import sct.contornos.persona.Alumno;
-
+/**
+ * Clase Matricula
+ * @author Adriam paz
+ */
 public class Matricula {
     private Alumno alumno;
     private Modulo modulo;

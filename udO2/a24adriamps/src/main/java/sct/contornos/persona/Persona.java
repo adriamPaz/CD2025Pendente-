@@ -1,7 +1,10 @@
 package sct.contornos.persona;
 
 import java.util.Date;
-
+/**
+ * Clase Abstracta persona
+ * @author Adriam paz
+ */
 abstract class Persona {
     String dni;
     String nombre;
